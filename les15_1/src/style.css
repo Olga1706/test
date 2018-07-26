@@ -1,0 +1,34 @@
+.main {
+	background: url(assets/bg.jpg) center 50% no-repeat;
+	height: 85rem;
+}
+.main_field {
+  width: 80%;
+  height: 40rem;
+  background-color: rgba(55, 55, 55, 0.6);
+  box-shadow: 0px 0px 80px 0px rgba(0, 0, 0, 0.5);
+  margin:15rem 10% 0 10%;
+  padding-bottom: 5rem;
+  border: 3px solid #ad7835;
+  overflow-y: auto;
+}
+.main_btn {
+	width: 25rem;
+	height: 5rem;
+	margin-top: 2rem;
+	border: 3px solid #ad7835;
+	border-radius: 10px;
+	background-color: rgba(0,0,0,.1);
+	outline: none;
+	color: #fff;
+	font-size: 1.5rem;
+}
+
+.input-6 {
+	margin-left: 30%;
+	max-width: 30%;
+	margin-top: 45px;
+	font-size: 30px;
+	color:#0000FF;
+}
+
